@@ -86,5 +86,8 @@ class SudokuSolver:
 
 
 root = tk.Tk()
+
 my_gui = SudokuSolver(root)
+
+
 root.mainloop()
