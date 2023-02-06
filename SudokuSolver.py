@@ -91,3 +91,5 @@ my_gui = SudokuSolver(root)
 
 
 root.mainloop()
+
+# by Alper Celik
